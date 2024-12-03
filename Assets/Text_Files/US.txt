@@ -1,0 +1,10 @@
+Dollars
+100
+Quarters
+25
+Dimes
+10
+Nickels
+5
+Pennies
+1
